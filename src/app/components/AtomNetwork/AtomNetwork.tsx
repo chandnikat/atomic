@@ -57,7 +57,11 @@ function AtomNetwork(): JSX.Element {
         >
           Dependents
           <span className="toolTipTest">
+<<<<<<< HEAD
             Displays all atoms affected by an atom
+=======
+            Displays all atoms affected by the inspected atom
+>>>>>>> 070bcfbf94737d62956d2534bb24e9d8c757d374
           </span>
         </h3>
 
